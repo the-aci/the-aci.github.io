@@ -6,10 +6,12 @@ This is the initiative to collaborate on blogs, advocacy and other
 things to promote and educate about Ada, THE programming language.
 
 A major field of interest is to develop ADA. (ADA is ancronym for
-Aid for DisAbled) Being disables is not fun neither is Ada. The goal
-is to minimize suffering among the faithfull.
+Aid for DisAbled) Being disabled is not fun; neither is Ada (well.. 
+that depends,..). 
 
-ADA is the goal, Ada is the means.
+**The goal is to minimize suffering among the faithfull**
 
-Motto : Ada-for-ADA or ADA-from-Ada
+ADA is the purpose; by Ada.
+
+Motto : *Ada-for-ADA* or *ADA-by-Ada*
 
