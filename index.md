@@ -1,17 +1,20 @@
-the Ada Coelaboration Initiative
 ---
-AKA ACI
+layout: page
+title: ACI - Ada Collaboration Initiative
+---
 
-This is the initiative to collaborate on blogs, advocacy and other
+This is the initiative to collaborate on posts, advocacy and other
 things to promote and educate about Ada, THE programming language.
 
-A major field of interest is to develop ADA. (ADA is ancronym for
-Aid for DisAbled) Being disabled is not fun; neither is Ada (well.. 
-that depends,..). 
+- [Posts](/posts/)
 
-**The goal is to minimize suffering among the faithfull**
+Ada vs ADA
+----
+The Americans with Disabilities Act, [ADA](https://www.ada.gov).
+Being disables is not fun; neither is Ada. The goal
+is to minimize suffering among the faithfull.
 
-ADA is the purpose; by Ada.
-
-Motto : *Ada-for-ADA* or *ADA-by-Ada*
+Looking for Cardano?
+----
+[Ada](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 
